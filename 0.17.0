@@ -1,0 +1,13 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting textblob
+  Downloading textblob-0.19.0-py3-none-any.whl.metadata (4.4 kB)
+Requirement already satisfied: nltk>=3.9 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from textblob) (3.9.1)
+Requirement already satisfied: click in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk>=3.9->textblob) (8.2.1)
+Requirement already satisfied: joblib in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk>=3.9->textblob) (1.5.1)
+Requirement already satisfied: regex>=2021.8.3 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk>=3.9->textblob) (2025.7.33)
+Requirement already satisfied: tqdm in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk>=3.9->textblob) (4.67.1)
+Requirement already satisfied: colorama in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from click->nltk>=3.9->textblob) (0.4.6)
+Downloading textblob-0.19.0-py3-none-any.whl (624 kB)
+   ---------------------------------------- 624.3/624.3 kB 13.1 MB/s  0:00:00
+Installing collected packages: textblob
+Successfully installed textblob-0.19.0

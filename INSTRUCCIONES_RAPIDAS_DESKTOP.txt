@@ -1,0 +1,36 @@
+🚀 DESCUENTOSGO - INSTRUCCIONES RÁPIDAS
+========================================
+
+📁 ARCHIVO EJECUTABLE EN EL ESCRITORIO:
+   • DescuentosGO.bat - Haz doble clic para ejecutar
+
+🎯 FUNCIONES DISPONIBLES:
+   1. 🚀 Ejecutar scraping completo
+   2. 🧪 Probar sistema de notificaciones Telegram
+   3. 📊 Ver estadísticas y datos
+   4. 🔧 Configurar Telegram
+   5. 📋 Ver logs del sistema
+   6. ❌ Salir
+
+📱 CONFIGURAR TELEGRAM (OPCIONAL):
+   1. Busca @BotFather en Telegram
+   2. Crea un bot con /newbot
+   3. Busca @userinfobot para obtener tu Chat ID
+   4. El sistema te guiará para configurar las notificaciones
+
+💾 DATOS GUARDADOS:
+   • Carpeta 'data' - Productos extraídos
+   • Carpeta 'logs' - Registros del sistema
+   • Base de datos SQLite - Almacenamiento local
+
+🔧 COMANDOS ÚTILES:
+   • python scraping_avanzado.py - Scraping directo
+   • python test_telegram.py - Probar notificaciones
+   • python get_chat_id.py - Obtener Chat ID de Telegram
+
+📞 SOPORTE:
+   • Revisa los logs en la carpeta 'logs'
+   • Verifica la configuración en el archivo '.env'
+   • Ejecuta las pruebas para diagnosticar problemas
+
+🎉 ¡El sistema está listo para usar! 

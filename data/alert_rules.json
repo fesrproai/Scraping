@@ -1,0 +1,99 @@
+{
+  "ofertas_extremas": {
+    "name": "Ofertas Extremas",
+    "description": "Productos con descuentos superiores al 85%",
+    "conditions": {
+      "min_discount": 85.0,
+      "min_confidence": 0.7,
+      "risk_levels": [
+        "low",
+        "medium"
+      ]
+    },
+    "priority": "critical",
+    "enabled": true,
+    "notification_channels": [
+      "telegram"
+    ],
+    "cooldown_hours": 6
+  },
+  "precios_historicos": {
+    "name": "Precios Históricos",
+    "description": "Productos en su precio más bajo histórico",
+    "conditions": {
+      "historical_low": true,
+      "min_discount": 50.0
+    },
+    "priority": "high",
+    "enabled": true,
+    "notification_channels": [
+      "telegram"
+    ],
+    "cooldown_hours": 12
+  },
+  "nuevos_productos": {
+    "name": "Nuevos Productos",
+    "description": "Productos nuevos con descuentos atractivos",
+    "conditions": {
+      "max_days_old": 3,
+      "min_discount": 40.0
+    },
+    "priority": "medium",
+    "enabled": true,
+    "notification_channels": [
+      "telegram"
+    ],
+    "cooldown_hours": 24
+  },
+  "tecnologia_barata": {
+    "name": "Tecnología Barata",
+    "description": "Productos tecnológicos con precios muy bajos",
+    "conditions": {
+      "categories": [
+        "tecnologia",
+        "tecnología"
+      ],
+      "max_price": 50000,
+      "min_discount": 60.0
+    },
+    "priority": "high",
+    "enabled": true,
+    "notification_channels": [
+      "telegram"
+    ],
+    "cooldown_hours": 12
+  },
+  "liquidacion_final": {
+    "name": "Liquidación Final",
+    "description": "Productos en liquidación con descuentos masivos",
+    "conditions": {
+      "keywords": [
+        "liquidacion",
+        "liquidación",
+        "final",
+        "outlet"
+      ],
+      "min_discount": 70.0
+    },
+    "priority": "critical",
+    "enabled": true,
+    "notification_channels": [
+      "telegram"
+    ],
+    "cooldown_hours": 4
+  },
+  "tendencias_bajistas": {
+    "name": "Tendencias Bajistas",
+    "description": "Productos con precios en tendencia bajista",
+    "conditions": {
+      "price_trend": "decreasing",
+      "min_discount": 30.0
+    },
+    "priority": "medium",
+    "enabled": true,
+    "notification_channels": [
+      "telegram"
+    ],
+    "cooldown_hours": 24
+  }
+}

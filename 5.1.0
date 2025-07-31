@@ -1,0 +1,26 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting altair
+  Downloading altair-5.5.0-py3-none-any.whl.metadata (11 kB)
+Requirement already satisfied: jinja2 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from altair) (3.1.6)
+Collecting jsonschema>=3.0 (from altair)
+  Downloading jsonschema-4.25.0-py3-none-any.whl.metadata (7.7 kB)
+Requirement already satisfied: narwhals>=1.14.2 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from altair) (2.0.1)
+Requirement already satisfied: packaging in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from altair) (25.0)
+Requirement already satisfied: typing-extensions>=4.10.0 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from altair) (4.14.1)
+Requirement already satisfied: attrs>=22.2.0 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from jsonschema>=3.0->altair) (25.3.0)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=3.0->altair)
+  Downloading jsonschema_specifications-2025.4.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=3.0->altair)
+  Using cached referencing-0.36.2-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.7.1 (from jsonschema>=3.0->altair)
+  Downloading rpds_py-0.26.0-cp313-cp313-win_amd64.whl.metadata (4.3 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from jinja2->altair) (3.0.2)
+Downloading altair-5.5.0-py3-none-any.whl (731 kB)
+   ---------------------------------------- 731.2/731.2 kB 10.5 MB/s  0:00:00
+Downloading jsonschema-4.25.0-py3-none-any.whl (89 kB)
+Downloading jsonschema_specifications-2025.4.1-py3-none-any.whl (18 kB)
+Using cached referencing-0.36.2-py3-none-any.whl (26 kB)
+Downloading rpds_py-0.26.0-cp313-cp313-win_amd64.whl (234 kB)
+Installing collected packages: rpds-py, referencing, jsonschema-specifications, jsonschema, altair
+
+Successfully installed altair-5.5.0 jsonschema-4.25.0 jsonschema-specifications-2025.4.1 referencing-0.36.2 rpds-py-0.26.0

@@ -1,0 +1,9 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting xgboost
+  Downloading xgboost-3.0.3-py3-none-win_amd64.whl.metadata (2.1 kB)
+Requirement already satisfied: numpy in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from xgboost) (2.2.6)
+Requirement already satisfied: scipy in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from xgboost) (1.16.1)
+Downloading xgboost-3.0.3-py3-none-win_amd64.whl (149.9 MB)
+   ---------------------------------------- 149.9/149.9 MB 48.5 MB/s  0:00:03
+Installing collected packages: xgboost
+Successfully installed xgboost-3.0.3

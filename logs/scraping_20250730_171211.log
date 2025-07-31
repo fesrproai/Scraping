@@ -1,0 +1,48 @@
+2025-07-30 17:12:11,802 - INFO - ✅ Sistema de notificaciones Telegram habilitado
+2025-07-30 17:12:11,803 - INFO - 🚀 Iniciando sistema de scraping de descuentos
+2025-07-30 17:12:11,803 - INFO - 🎯 Iniciando scraping de 2 tiendas: paris, falabella
+2025-07-30 17:12:11,841 - INFO - 🏪 Iniciando scraping de Paris
+2025-07-30 17:12:11,842 - INFO - 📂 Procesando categoría: Página Principal
+2025-07-30 17:12:11,842 - INFO - 📡 Cargando (intento 1/3): https://www.paris.cl
+2025-07-30 17:12:14,980 - INFO - ✅ Página cargada exitosamente: https://www.paris.cl
+2025-07-30 17:12:15,394 - INFO - ✅ Encontrados 661 elementos con selector: [class*="item"]
+2025-07-30 17:12:15,395 - INFO - 🔄 Procesando 661 elementos encontrados...
+2025-07-30 17:12:15,415 - INFO - ✅ Extraídos 0 productos válidos de paris
+2025-07-30 17:12:15,416 - WARNING - ⚠️ No se encontraron productos en Página Principal
+2025-07-30 17:12:17,992 - INFO - 📂 Procesando categoría: Ofertas
+2025-07-30 17:12:17,992 - INFO - 📡 Cargando (intento 1/3): https://www.paris.cl/ofertas
+2025-07-30 17:12:20,560 - ERROR - ❌ Error en intento 1 para https://www.paris.cl/ofertas: 404 Client Error: Not Found for url: https://www.paris.cl/ofertas
+2025-07-30 17:12:20,561 - INFO - 📡 Cargando (intento 2/3): https://www.paris.cl/ofertas
+2025-07-30 17:12:22,599 - ERROR - ❌ Error en intento 2 para https://www.paris.cl/ofertas: 404 Client Error: Not Found for url: https://www.paris.cl/ofertas
+2025-07-30 17:12:22,600 - INFO - 📡 Cargando (intento 3/3): https://www.paris.cl/ofertas
+2025-07-30 17:12:25,170 - ERROR - ❌ Error en intento 3 para https://www.paris.cl/ofertas: 404 Client Error: Not Found for url: https://www.paris.cl/ofertas
+2025-07-30 17:12:25,171 - ERROR - ❌ Falló después de 3 intentos: https://www.paris.cl/ofertas
+2025-07-30 17:12:25,172 - WARNING - ⚠️ No se pudo cargar contenido de Ofertas
+2025-07-30 17:12:25,173 - INFO - ✅ Scraping completado de Paris: 0 productos totales
+2025-07-30 17:12:25,173 - WARNING - ⚠️ No se encontraron productos en paris
+2025-07-30 17:12:25,174 - INFO - 🏪 Iniciando scraping de Falabella
+2025-07-30 17:12:25,175 - INFO - 📂 Procesando categoría: Ofertas
+2025-07-30 17:12:25,175 - INFO - 📡 Cargando (intento 1/3): https://www.falabella.com/falabella-cl/collection/ofertas
+2025-07-30 17:12:27,103 - INFO - ✅ Página cargada exitosamente: https://www.falabella.com/falabella-cl/collection/ofertas
+2025-07-30 17:12:27,209 - INFO - ✅ Encontrados 28 elementos con selector: .pod
+2025-07-30 17:12:27,210 - INFO - 🔄 Procesando 28 elementos encontrados...
+2025-07-30 17:12:27,291 - INFO - ✅ Extraídos 20 productos válidos de falabella
+2025-07-30 17:12:27,292 - INFO - ✅ 20 productos encontrados en Ofertas
+2025-07-30 17:12:28,947 - INFO - 📂 Procesando categoría: Tecnología
+2025-07-30 17:12:28,947 - INFO - 📡 Cargando (intento 1/3): https://www.falabella.com/falabella-cl/category/cat20002/Tecnologia
+2025-07-30 17:12:30,700 - INFO - ✅ Página cargada exitosamente: https://www.falabella.com/falabella-cl/category/cat20002/Tecnologia
+2025-07-30 17:12:30,799 - INFO - ✅ Encontrados 28 elementos con selector: .pod
+2025-07-30 17:12:30,799 - INFO - 🔄 Procesando 28 elementos encontrados...
+2025-07-30 17:12:30,890 - INFO - ✅ Extraídos 20 productos válidos de falabella
+2025-07-30 17:12:30,890 - INFO - ✅ 20 productos encontrados en Tecnología
+2025-07-30 17:12:33,546 - INFO - 📂 Procesando categoría: Hogar
+2025-07-30 17:12:33,546 - INFO - 📡 Cargando (intento 1/3): https://www.falabella.com/falabella-cl/category/cat20001/Hogar-y-Muebles
+2025-07-30 17:12:35,110 - INFO - ✅ Página cargada exitosamente: https://www.falabella.com/falabella-cl/category/cat20001/Hogar-y-Muebles
+2025-07-30 17:12:35,245 - INFO - ✅ Encontrados 14 elementos con selector: [class*="item"]
+2025-07-30 17:12:35,246 - INFO - 🔄 Procesando 14 elementos encontrados...
+2025-07-30 17:12:35,263 - INFO - ✅ Extraídos 0 productos válidos de falabella
+2025-07-30 17:12:35,264 - WARNING - ⚠️ No se encontraron productos en Hogar
+2025-07-30 17:12:36,780 - INFO - ✅ Scraping completado de Falabella: 40 productos totales
+2025-07-30 17:12:36,780 - INFO - 💾 Guardando 40 productos de falabella
+2025-07-30 17:12:36,783 - INFO - ✅ 40 productos guardados en data/falabella_products_avanzado_20250730_171236.json
+2025-07-30 17:12:36,784 - INFO - ✅ Scraping completado en 24.98 segundos

@@ -1,0 +1,408 @@
+{
+  "store": "falabella",
+  "timestamp": "2025-07-30T16:55:57.076290",
+  "total_products": 40,
+  "method": "avanzado",
+  "products": [
+    {
+      "name": "EnvíogratisappTUHOMEBotiquín con Espejo Barcelona MielPor Falabella$  99.990-41%$  119.990$  169.990",
+      "current_price": "$119.990",
+      "original_price": "$169.990",
+      "discount": "-41%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/6036332_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.284117"
+    },
+    {
+      "name": "DECOCASAJuego De Comedor Agata 130 + 4 Sillas Fer BeigePor Falabella$  589.990-41%$  659.990$  999.9",
+      "current_price": "$659.990",
+      "original_price": "$999.990",
+      "discount": "-41%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/17090731_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.293097"
+    },
+    {
+      "name": "EnvíogratisappTUHOMEAlacena BauPor Falabella$  149.990-46%$  169.990$  279.990(1)Agregar al Carro",
+      "current_price": "$169.990",
+      "original_price": "$279.990",
+      "discount": "-46%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/15519209_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.297852"
+    },
+    {
+      "name": "TUHOMEEscritorio Esquinero En L Rennes BlancoPor Falabella$  119.990-54%$  139.990$  259.990(1)Agreg",
+      "current_price": "$139.990",
+      "original_price": "$259.990",
+      "discount": "-54%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/16269794_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.301777"
+    },
+    {
+      "name": "FMFURNITUREMesa Qatar Q-180 ExtPor Falabella$  139.990-48%$  159.990$  269.990(1)Agregar al Carro",
+      "current_price": "$159.990",
+      "original_price": "$269.990",
+      "discount": "-48%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/16338652_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.308004"
+    },
+    {
+      "name": "KIDSCOOLCama Infantil 51445Por Falabella$  109.990-52%$  129.990$  229.990(1)Agregar al Carro",
+      "current_price": "$129.990",
+      "original_price": "$229.990",
+      "discount": "-52%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/15326274_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.313346"
+    },
+    {
+      "name": "BATH & BODY WORKSVela Grande Cactus Blossom 429mlPor Falabella$  15.990-47%$  29.990(3)Agregar al Ca",
+      "current_price": "$15.990",
+      "original_price": "$29.990",
+      "discount": "-47%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/80123769_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.316903"
+    },
+    {
+      "name": "MASELSet 2 Almohadas 50x70 cm EcoPor Sodimac$  5.990-54%$  12.990(5)Agregar al Carro",
+      "current_price": "$5.990",
+      "original_price": "$12.990",
+      "discount": "-54%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/sodimacCL/7612184_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.321962"
+    },
+    {
+      "name": "BEBESITSet Cuna EspacialPor Falabella$  39.990-60%$  98.990(1)Agregar al Carro",
+      "current_price": "$39.990",
+      "original_price": "$98.990",
+      "discount": "-60%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.327444"
+    },
+    {
+      "name": "KIDSCOOLVelador Honey con CajónPor Falabella$  44.990-44%$  49.990$  79.990(1)Agregar al Carro",
+      "current_price": "$49.990",
+      "original_price": "$79.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.332454"
+    },
+    {
+      "name": "FORM OFFICEEscritorio Neo Con Pasacables 140x60 CmPor Falabella$  209.990-58%$  229.990$  499.990(1)",
+      "current_price": "$229.990",
+      "original_price": "$499.990",
+      "discount": "-58%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.338357"
+    },
+    {
+      "name": "DECOCASAJuego De Comedor Patricia 130 + 4 Sillas Cla NudePor Falabella$  559.990-40%$  629.990$  939",
+      "current_price": "$629.990",
+      "original_price": "$939.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.345028"
+    },
+    {
+      "name": "DECOCASAJuego De Comedor Agata 130 + 4 Sillas Fer NudePor Falabella$  599.990-40%$  679.990$  999.99",
+      "current_price": "$679.990",
+      "original_price": "$999.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.349868"
+    },
+    {
+      "name": "TUHOMECloset Golden 6 Puertas 2 Cajones WenguePor Falabella$  299.990-50%$  329.990$  599.990(1)Agre",
+      "current_price": "$329.990",
+      "original_price": "$599.990",
+      "discount": "-50%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.353727"
+    },
+    {
+      "name": "CICPoltrona Felpa CillaPor Falabella$  359.990-45%$  389.990$  659.99010cuotas sin interés(1)Agregar",
+      "current_price": "$389.990",
+      "original_price": "$659.990",
+      "discount": "-45%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.361174"
+    },
+    {
+      "name": "BE DESIGNEscritorio Practic BlancoPor Falabella$  59.990-63%$  69.990$  159.990(1)Agregar al Carro",
+      "current_price": "$69.990",
+      "original_price": "$159.990",
+      "discount": "-63%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.364825"
+    },
+    {
+      "name": "BE DESIGNMesa De Centro Boho Bicolor CarmPor Falabella$  65.990-63%$  79.990$  179.990(1)Agregar al",
+      "current_price": "$79.990",
+      "original_price": "$179.990",
+      "discount": "-63%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.368520"
+    },
+    {
+      "name": "TUHOMEMueble Para Tv AndorraPor Falabella$  99.990-50%$  119.990$  199.990(1)Agregar al Carro",
+      "current_price": "$119.990",
+      "original_price": "$199.990",
+      "discount": "-50%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.375030"
+    },
+    {
+      "name": "STANFORDRack Belluno 2 Puertas 2 Repisas BicolorPor Falabella$  84.990-43%$  89.990$  149.990(1)Agre",
+      "current_price": "$89.990",
+      "original_price": "$149.990",
+      "discount": "-43%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.378926"
+    },
+    {
+      "name": "TUHOMEMesa De Comedor 6 Puestos VolterraPor Falabella$  139.990-42%$  159.990$  239.990(4)Agregar al",
+      "current_price": "$159.990",
+      "original_price": "$239.990",
+      "discount": "-42%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:32.382622"
+    },
+    {
+      "name": "UNIVERSITY CLUBBlusa Manga Larga Algodón MujerPor Falabella$  19.990Llega mañana#Lo.ÚltimoPatrocinad",
+      "current_price": "$19.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883460646_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.102728"
+    },
+    {
+      "name": "UNIVERSITY CLUBBlusa Manga Larga MujerPor Falabella$  24.990Llega mañana#Lo.Último(2)PatrocinadoAgre",
+      "current_price": "$24.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883460525_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.109411"
+    },
+    {
+      "name": "EnvíogratisappBASEMENTAbrigo MujerPor Falabella$  49.990Retira desde 90 minAgregar al Carro",
+      "current_price": "$49.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883446668_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.116505"
+    },
+    {
+      "name": "BLACK OUTBASEMENTCardigan MujerPor Falabella$  29.990-50%$  34.990$  59.990Llega mañanaHecho en Ital",
+      "current_price": "$34.990",
+      "original_price": "$59.990",
+      "discount": "-50%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/80073822_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.120537"
+    },
+    {
+      "name": "BLACK OUTAMERICANINOChaqueta MujerPor Falabella$  39.990-43%$  69.990Llega mañanaRetira desde 90 min",
+      "current_price": "$39.990",
+      "original_price": "$69.990",
+      "discount": "-43%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883338126_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.125774"
+    },
+    {
+      "name": "BLACK OUTAMERICANINOChaleco MujerPor Falabella$  14.990-40%$  16.990$  24.990Llega hoyNueva Temporad",
+      "current_price": "$16.990",
+      "original_price": "$24.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883442871_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.131252"
+    },
+    {
+      "name": "BLACK OUTUNIVERSITY CLUBVestido MujerPor Falabella$  17.990-40%$  20.990$  29.990Llega hoyPatrocinad",
+      "current_price": "$20.990",
+      "original_price": "$29.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883445010_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.134880"
+    },
+    {
+      "name": "BLACK OUTUNIVERSITY CLUBChaqueta MujerPor Falabella$  14.990-40%$  16.990$  24.990Llega mañanaPatroc",
+      "current_price": "$16.990",
+      "original_price": "$24.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883445339_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.138706"
+    },
+    {
+      "name": "TOP EN VENTASBLACK OUTMANGOBlazer Traje Entallada MujerPor Falabella$  35.990-40%$  41.990$  59.990L",
+      "current_price": "$41.990",
+      "original_price": "$59.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.146988"
+    },
+    {
+      "name": "BLACK OUTMANGOJeans Matilda Tiro Medio Rectos MujerPor Falabella$  25.990-40%$  29.990$  42.990Retir",
+      "current_price": "$29.990",
+      "original_price": "$42.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.151218"
+    },
+    {
+      "name": "BLACK OUTSYBILLASweater MujerPor Falabella$  9.990-41%$  11.990$  16.990Llega mañana(5)Agregar al Ca",
+      "current_price": "$11.990",
+      "original_price": "$16.990",
+      "discount": "-41%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.156045"
+    },
+    {
+      "name": "BLACK OUTSYBILLAPolera Manga Larga Algodón MujerPor Falabella$  11.990-40%$  13.990$  19.990Llega ho",
+      "current_price": "$13.990",
+      "original_price": "$19.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.163102"
+    },
+    {
+      "name": "BLACK OUTBASEMENTAbrigo MujerPor Falabella$  26.990-51%$  32.990$  54.990Llega mañana(6)Agregar al C",
+      "current_price": "$32.990",
+      "original_price": "$54.990",
+      "discount": "-51%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.167250"
+    },
+    {
+      "name": "BLACK OUTBASEMENTCardigan MujerPor Falabella$  39.990-50%$  49.990$  79.990Llega mañanaHecho en Ital",
+      "current_price": "$49.990",
+      "original_price": "$79.990",
+      "discount": "-50%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.171254"
+    },
+    {
+      "name": "BLACK OUTRAINDOORPantalón Wide Leg Tiro Alto MujerPor Falabella$  34.990-41%$  40.990$  58.990Llega",
+      "current_price": "$40.990",
+      "original_price": "$58.990",
+      "discount": "-41%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.177231"
+    },
+    {
+      "name": "BLACK OUTUNIVERSITY CLUBChaqueta MujerPor Falabella$  17.990-60%$  21.990$  44.990Llega hoyRetira de",
+      "current_price": "$21.990",
+      "original_price": "$44.990",
+      "discount": "-60%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.181758"
+    },
+    {
+      "name": "SYBILLAPantalón Mujer Wide Leg CasualPor Falabella$  14.990Retira desde 90 min(130)Agregar al Carro",
+      "current_price": "$14.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.187825"
+    },
+    {
+      "name": "BLACK OUTBASEMENTJeans Straight Tiro Alto MujerPor Falabella$  14.990-40%$  16.990$  24.990Llega hoy",
+      "current_price": "$16.990",
+      "original_price": "$24.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.194967"
+    },
+    {
+      "name": "BLACK OUTMOSSIMOJeans Flare Tiro Medio MujerPor Falabella$  19.990-33%$  29.990Llega hoyRetira desde",
+      "current_price": "$19.990",
+      "original_price": "$29.990",
+      "discount": "-33%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.199205"
+    },
+    {
+      "name": "BLACK OUTEnvíogratisappDOITEParka 3 En 1 Skada MujerPor Falabella$  99.990-50%$  199.990Llega hoy(7)",
+      "current_price": "$99.990",
+      "original_price": "$199.990",
+      "discount": "-50%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-30T16:55:48.205347"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting asyncio-mqtt
+  Downloading asyncio_mqtt-0.16.2-py3-none-any.whl.metadata (17 kB)
+Requirement already satisfied: paho-mqtt>=1.6.0 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from asyncio-mqtt) (2.1.0)
+Downloading asyncio_mqtt-0.16.2-py3-none-any.whl (17 kB)
+Installing collected packages: asyncio-mqtt
+Successfully installed asyncio-mqtt-0.16.2

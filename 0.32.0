@@ -1,0 +1,49 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pennylane
+  Downloading pennylane-0.42.1-py3-none-any.whl.metadata (11 kB)
+Requirement already satisfied: scipy in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (1.16.1)
+Requirement already satisfied: networkx in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (3.5)
+Requirement already satisfied: rustworkx>=0.14.0 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (0.16.0)
+Collecting autograd (from pennylane)
+  Downloading autograd-1.8.0-py3-none-any.whl.metadata (7.5 kB)
+Collecting appdirs (from pennylane)
+  Downloading appdirs-1.4.4-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting autoray>=0.6.11 (from pennylane)
+  Downloading autoray-0.7.2-py3-none-any.whl.metadata (5.8 kB)
+Requirement already satisfied: cachetools in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (5.5.2)
+Collecting pennylane-lightning>=0.42 (from pennylane)
+  Downloading pennylane_lightning-0.42.0-cp313-cp313-win_amd64.whl.metadata (11 kB)
+Requirement already satisfied: requests in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (2.32.4)
+Collecting tomlkit (from pennylane)
+  Downloading tomlkit-0.13.3-py3-none-any.whl.metadata (2.8 kB)
+Requirement already satisfied: typing_extensions in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (4.14.1)
+Requirement already satisfied: packaging in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (25.0)
+Collecting diastatic-malt (from pennylane)
+  Downloading diastatic_malt-2.15.2-py3-none-any.whl.metadata (2.6 kB)
+Requirement already satisfied: numpy in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from pennylane) (2.2.6)
+Collecting scipy-openblas32>=0.3.26 (from pennylane-lightning>=0.42->pennylane)
+  Downloading scipy_openblas32-0.3.30.0.2-py3-none-win_amd64.whl.metadata (56 kB)
+Requirement already satisfied: astunparse in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from diastatic-malt->pennylane) (1.6.3)
+Requirement already satisfied: gast in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from diastatic-malt->pennylane) (0.6.0)
+Requirement already satisfied: termcolor in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from diastatic-malt->pennylane) (3.1.0)
+Requirement already satisfied: wheel<1.0,>=0.23.0 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from astunparse->diastatic-malt->pennylane) (0.45.1)
+Requirement already satisfied: six<2.0,>=1.6.1 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from astunparse->diastatic-malt->pennylane) (1.17.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from requests->pennylane) (3.4.2)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from requests->pennylane) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from requests->pennylane) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from requests->pennylane) (2025.7.14)
+Downloading pennylane-0.42.1-py3-none-any.whl (4.8 MB)
+   ---------------------------------------- 4.8/4.8 MB 3.9 MB/s  0:00:01
+Downloading autoray-0.7.2-py3-none-any.whl (930 kB)
+   ---------------------------------------- 930.8/930.8 kB 11.1 MB/s  0:00:00
+Downloading pennylane_lightning-0.42.0-cp313-cp313-win_amd64.whl (6.5 MB)
+   ---------------------------------------- 6.5/6.5 MB 8.3 MB/s  0:00:00
+Downloading scipy_openblas32-0.3.30.0.2-py3-none-win_amd64.whl (7.1 MB)
+   ---------------------------------------- 7.1/7.1 MB 8.2 MB/s  0:00:00
+Downloading appdirs-1.4.4-py2.py3-none-any.whl (9.6 kB)
+Downloading autograd-1.8.0-py3-none-any.whl (51 kB)
+Downloading diastatic_malt-2.15.2-py3-none-any.whl (167 kB)
+Downloading tomlkit-0.13.3-py3-none-any.whl (38 kB)
+Installing collected packages: appdirs, tomlkit, scipy-openblas32, autoray, autograd, diastatic-malt, pennylane-lightning, pennylane
+
+Successfully installed appdirs-1.4.4 autograd-1.8.0 autoray-0.7.2 diastatic-malt-2.15.2 pennylane-0.42.1 pennylane-lightning-0.42.0 scipy-openblas32-0.3.30.0.2 tomlkit-0.13.3

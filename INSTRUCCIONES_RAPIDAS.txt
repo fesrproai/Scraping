@@ -1,0 +1,60 @@
+🎯 DESCUENTOSGO - INSTRUCCIONES RÁPIDAS
+================================================
+
+📁 ARCHIVO EJECUTABLE:
+   DescuentosGO.exe (en tu escritorio)
+
+🚀 CÓMO USAR:
+   1. Doble clic en "Descuentos_Rata_Auto.exe"
+   2. La aplicación se abrirá automáticamente
+   3. Usa el menú numérico para navegar
+
+🎮 MENÚ PRINCIPAL:
+   1. 🚀 Iniciar/Detener Scanner (INICIA AQUÍ)
+   2. 📦 Ver últimas ofertas
+   3. 🏆 Ver top 10 mejores ofertas
+   4. 🔍 Buscar producto
+   5. ⚙️ Gestionar categorías
+   6. 📊 Ver estadísticas completas
+   7. 🔧 Configurar Telegram
+   8. ❌ Salir
+
+📱 CONFIGURAR TELEGRAM:
+   1. Selecciona opción 7
+   2. Para obtener tu Chat ID:
+      - Busca "@userinfobot" en Telegram
+      - Envía cualquier mensaje
+      - Copia el Chat ID que te responde
+   3. Ingresa el Chat ID en la aplicación
+   4. Prueba la conexión
+
+⚙️ GESTIONAR CATEGORÍAS:
+   1. Selecciona opción 5
+   2. Elige una tienda (1-12)
+   3. Activa/desactiva categorías con números
+   4. Usa 13 para activar todas, 14 para desactivar todas
+
+🔍 BUSCAR OFERTAS:
+   1. Selecciona opción 4
+   2. Escribe palabras clave (ej: "samsung", "iphone", "tv")
+   3. Presiona Enter para buscar
+
+📊 VER ESTADÍSTICAS:
+   1. Selecciona opción 6
+   2. Verás métricas completas del sistema
+   3. Incluye productos por tienda y rendimiento
+
+💡 CONSEJOS:
+   • Inicia el scanner (opción 1) para comenzar a buscar ofertas
+   • Configura Telegram para recibir alertas automáticas
+   • Gestiona categorías según tus intereses
+   • La aplicación funciona 24/7 automáticamente
+
+🏪 TIENDAS INCLUIDAS:
+   Paris, Hites, Falabella, Sodimac, Easy, Líder, 
+   Jumbo, Santa Isabel, Alcampo, Unimarc, Walmart, Tottus
+
+🎯 SOLO OFERTAS CON 70%+ DE DESCUENTO
+📱 ALERTAS TELEGRAM PARA 85%+ DE DESCUENTO
+
+¡Disfruta encontrando las mejores ofertas! 🎉 

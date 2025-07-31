@@ -1,0 +1,91 @@
+{
+  "store": "falabella",
+  "timestamp": "2025-07-29T19:33:01.566975",
+  "total_products": 7,
+  "method": "filtros_faciles",
+  "filter": {
+    "type": "mega_ofertas",
+    "name": "Mega ofertas (50%+)",
+    "min_discount": 50,
+    "max_discount": 100
+  },
+  "products": [
+    {
+      "name": "TUHOMEEscritorio Atlanter Blanco 120x120x46 cmPor Sodimac$  109.990-56%$  119.990$  249.990(1)Agrega",
+      "current_price": "$119.990",
+      "original_price": "$249.990",
+      "discount": "-56%",
+      "discount_percentage": 56,
+      "product_link": "",
+      "product_image": "https://media.falabella.com/sodimacCL/7708629_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:53.983958"
+    },
+    {
+      "name": "MOBILFRANKPanel Tv 726CaPor Falabella$  64.990-57%$  79.990$  149.990(2)Agregar al Carro",
+      "current_price": "$79.990",
+      "original_price": "$149.990",
+      "discount": "-57%",
+      "discount_percentage": 57,
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/17193604_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:54.011739"
+    },
+    {
+      "name": "MICAJuego de Comedor Redondo Amelie 4 Sillas Madera MarrónPor Falabella$  319.990-50%$  369.990$  63",
+      "current_price": "$369.990",
+      "original_price": "$639.990",
+      "discount": "-50%",
+      "discount_percentage": 50,
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/17229265_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:54.019489"
+    },
+    {
+      "name": "BE DESIGNCómoda Infantil 4 Cajones BlockPor Falabella$  149.990-55%$  169.990$  329.990(2)Agregar al",
+      "current_price": "$169.990",
+      "original_price": "$329.990",
+      "discount": "-55%",
+      "discount_percentage": 55,
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:54.041850"
+    },
+    {
+      "name": "EnvíogratisappELLESSECHAQUETA MUJER JUANA BURGANDYPor Ellesse Chile$  26.490-50%$  52.990Llega mañan",
+      "current_price": "$26.490",
+      "original_price": "$52.990",
+      "discount": "-50%",
+      "discount_percentage": 50,
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/142669672_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:56.864295"
+    },
+    {
+      "name": "ELLESSECHAQUETA MUJER SILVIA NEGROPor Ellesse Chile$  24.990-50%$  49.990PatrocinadoAgregar al Carro",
+      "current_price": "$24.990",
+      "original_price": "$49.990",
+      "discount": "-50%",
+      "discount_percentage": 50,
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/143798819_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:56.868206"
+    },
+    {
+      "name": "UNIVERSITY CLUBChaqueta MujerPor Falabella$  21.990-51%$  44.990Llega mañana(24)Agregar al Carro",
+      "current_price": "$21.990",
+      "original_price": "$44.990",
+      "discount": "-51%",
+      "discount_percentage": 51,
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T19:32:56.938212"
+    }
+  ]
+}

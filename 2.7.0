@@ -1,0 +1,7 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pulp
+  Downloading pulp-3.2.2-py3-none-any.whl.metadata (6.9 kB)
+Downloading pulp-3.2.2-py3-none-any.whl (16.4 MB)
+   ---------------------------------------- 16.4/16.4 MB 41.7 MB/s  0:00:00
+Installing collected packages: pulp
+Successfully installed pulp-3.2.2

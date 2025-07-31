@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+lxml
+fastapi
+uvicorn
+python-telegram-bot
+pandas
+httpx

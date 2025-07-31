@@ -1,0 +1,408 @@
+{
+  "store": "falabella",
+  "timestamp": "2025-07-29T20:01:31.818890",
+  "total_products": 40,
+  "method": "avanzado",
+  "products": [
+    {
+      "name": "DRIMKIPColchón Funcional Queen 160x200 cmPor Sodimac$  179.990-41%$  304.990(4)Agregar al Carro",
+      "current_price": "$179.990",
+      "original_price": "$304.990",
+      "discount": "-41%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/sodimacCL/7054475_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.752021"
+    },
+    {
+      "name": "RASCHPapel Mural Indian Style 746051 5 m2Por Sodimac$  22.990-51%$  47.190ECO(1)Agregar al Carro",
+      "current_price": "$22.990",
+      "original_price": "$47.190",
+      "discount": "-51%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/sodimacCL/7346980_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.758271"
+    },
+    {
+      "name": "COMERCIALIZADORA ELEGANT DETAILSofá Houston 3 Cuerpos Tela/ PuPor Falabella$  319.990-44%$  369.990$",
+      "current_price": "$369.990",
+      "original_price": "$569.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/16554506_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.762852"
+    },
+    {
+      "name": "COMERCIALIZADORA ELEGANT DETAILSofá Atlanta 2 Cuerpos TelPor Falabella$  299.990-44%$  349.990$  539",
+      "current_price": "$349.990",
+      "original_price": "$539.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/16391571_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.767265"
+    },
+    {
+      "name": "VEKKAHOMECómoda 3 Cajón(es) Coimbra 44.5x83.5x44.5 cm BlancoPor Sodimac$  54.990-45%$  59.990$  99.9",
+      "current_price": "$59.990",
+      "original_price": "$99.990",
+      "discount": "-45%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/sodimacCL/7627297_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.774153"
+    },
+    {
+      "name": "KIDSCOOLCómoda con Puerta Gold Miel/BlancoPor Falabella$  149.990-50%$  169.990$  299.990(1)Agregar ",
+      "current_price": "$169.990",
+      "original_price": "$299.990",
+      "discount": "-50%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/16554366_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.778082"
+    },
+    {
+      "name": "KIDSCOOLResbalín DinoPor Falabella$  69.990-42%$  119.990(4)Agregar al Carro",
+      "current_price": "$69.990",
+      "original_price": "$119.990",
+      "discount": "-42%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/8237650_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.781498"
+    },
+    {
+      "name": "ONE SITSilla Escritorio Ergonómica New Genova NegroPor Sodimac$  44.990-55%$  99.990(5)Agregar al Ca",
+      "current_price": "$44.990",
+      "original_price": "$99.990",
+      "discount": "-55%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/sodimacCL/7499035_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.786799"
+    },
+    {
+      "name": "KIDSCOOLBicicleta Madera New RidersPor Falabella$  44.990-44%$  79.990(1)Agregar al Carro",
+      "current_price": "$44.990",
+      "original_price": "$79.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.792052"
+    },
+    {
+      "name": "TUHOMEMesa de centro funes eco wenguePor Sodimac$  94.990-41%$  109.990$  159.990(1)Agregar al Carro",
+      "current_price": "$109.990",
+      "original_price": "$159.990",
+      "discount": "-41%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.795778"
+    },
+    {
+      "name": "VEKKAHOMEMueble De Cocina Aéreo Opie Grafito 14O CmPor Falabella$  59.990-40%$  69.990$  99.990Llega",
+      "current_price": "$69.990",
+      "original_price": "$99.990",
+      "discount": "-40%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.802560"
+    },
+    {
+      "name": "VEKKAHOMEMueble De Cocina Aéreo Nido 160 CmPor Falabella$  69.990-42%$  79.990$  119.990(1)Agregar a",
+      "current_price": "$79.990",
+      "original_price": "$119.990",
+      "discount": "-42%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.809292"
+    },
+    {
+      "name": "VEKKAHOMEJuego De Comedor Italia Lia 8 PuestosPor Falabella$  619.990-44%$  659.990$  1.099.990(2)Ag",
+      "current_price": "$659.990",
+      "original_price": "$1.099.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.813455"
+    },
+    {
+      "name": "LIVING FACTORYJuego De Comedor 8 Puestos MilanPor Falabella$  659.990-45%$  749.990$  1.199.990(1)Ag",
+      "current_price": "$749.990",
+      "original_price": "$1.199.990",
+      "discount": "-45%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.818419"
+    },
+    {
+      "name": "TUHOMEMesa de centro Wema Wengue 89.3x53.1x41.6 cmPor Sodimac$  54.990-45%$  59.990$  99.990(11)Agre",
+      "current_price": "$59.990",
+      "original_price": "$99.990",
+      "discount": "-45%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.825137"
+    },
+    {
+      "name": "MASELJuego de Sábanas 144 Hilos SinuoPor Sodimac$  13.990-44%$  24.990 - $  26.990(2)Agregar al Carr",
+      "current_price": "$24.990",
+      "original_price": "$26.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.828472"
+    },
+    {
+      "name": "VEKKAHOMEMesa de centro PilarPor Sodimac$  79.990-43%$  89.990$  139.990(4)Agregar al Carro",
+      "current_price": "$89.990",
+      "original_price": "$139.990",
+      "discount": "-43%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.832045"
+    },
+    {
+      "name": "TUHOMEEscritorio Atlanter Blanco 120x120x46 cmPor Sodimac$  109.990-56%$  119.990$  249.990(1)Agrega",
+      "current_price": "$119.990",
+      "original_price": "$249.990",
+      "discount": "-56%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.839322"
+    },
+    {
+      "name": "TUHOMEEstante TV 55 \" Cantabria COÑAC 180x180x40 cmPor Sodimac$  189.990-42%$  209.990$  329.990(1)A",
+      "current_price": "$209.990",
+      "original_price": "$329.990",
+      "discount": "-42%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.842971"
+    },
+    {
+      "name": "TUHOMEEscritorio Guma Wengue 127.9x88.5x127.9 cmPor Sodimac$  144.990-44%$  169.990$  259.990(1)Agre",
+      "current_price": "$169.990",
+      "original_price": "$259.990",
+      "discount": "-44%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:20.846699"
+    },
+    {
+      "name": "EL TRECEBlusa Escolar Entallada Blanca - Tallas xs A 2xlPor El13uniformes$  13.950PatrocinadoAgregar",
+      "current_price": "$13.950",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/143372916_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.234766"
+    },
+    {
+      "name": "ATAKAMA OUTDOORPolera Mujer Manga Corta FloraPor Atakama$  15.990-24%$  20.990Llega mañanaPatrocinad",
+      "current_price": "$15.990",
+      "original_price": "$20.990",
+      "discount": "-24%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/129298736_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.238103"
+    },
+    {
+      "name": "EnvíogratisappBASEMENTAbrigo MujerPor Falabella$  49.990Llega mañanaAgregar al Carro",
+      "current_price": "$49.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883446680_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.243763"
+    },
+    {
+      "name": "BASEMENTChaqueta MujerPor Falabella$  39.990Llega mañana(1)Agregar al Carro",
+      "current_price": "$39.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883446340_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.251588"
+    },
+    {
+      "name": "EnvíogratisappAMERICANINOChaqueta MujerPor Falabella$  49.990Llega mañanaNueva Temporada(1)Agregar a",
+      "current_price": "$49.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883460518_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.257705"
+    },
+    {
+      "name": "AMERICANINOPolera Manga Corta Algodón MujerPor Falabella$  19.990Retira mañana2x $29.990(3)Agregar a",
+      "current_price": "$19.990",
+      "original_price": "$29.990",
+      "discount": "",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/883438686_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.263356"
+    },
+    {
+      "name": "LENGAPolerón Mujer Canguro Y Cierre Ykk Petra SustentablePor Indusbord$  27.732-27%$  37.990Llega ma",
+      "current_price": "$27.732",
+      "original_price": "$37.990",
+      "discount": "-27%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/118343840_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.270787"
+    },
+    {
+      "name": "EnvíogratisappLENGAPolerón Chaqueta Polar Mujer Sherpa Con Capucha PuyaPor Indusbord$  35.990-20%$  ",
+      "current_price": "$35.990",
+      "original_price": "$44.990",
+      "discount": "-20%",
+      "product_link": "",
+      "product_image": "https://media.falabella.com/falabellaCL/125225940_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.274982"
+    },
+    {
+      "name": "AMERICANINOPolera Manga Corta Algodón MujerPor Falabella$  19.990Retira mañana2x $29.990(3)Agregar a",
+      "current_price": "$19.990",
+      "original_price": "$29.990",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.281111"
+    },
+    {
+      "name": "AMERICANINOPolera Manga Corta Algodón MujerPor Falabella$  19.990Llega mañanaRetira mañana2x $29.990",
+      "current_price": "$19.990",
+      "original_price": "$29.990",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.288456"
+    },
+    {
+      "name": "AMERICANINOPolera Manga Corta Algodón MujerPor Falabella$  19.990Retira mañana2x $29.990(3)Agregar a",
+      "current_price": "$19.990",
+      "original_price": "$29.990",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.293784"
+    },
+    {
+      "name": "AMERICANINOPolera Manga Corta Algodón MujerPor Falabella$  19.990Retira mañana2x $29.990(3)Agregar a",
+      "current_price": "$19.990",
+      "original_price": "$29.990",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.302372"
+    },
+    {
+      "name": "TOP EN VENTASMANGOCamisa Manga Larga Fluida MujerPor Falabella$  27.990Llega mañana(2)Agregar al Car",
+      "current_price": "$27.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.308142"
+    },
+    {
+      "name": "EnvíogratisappMANGOChaqueta Tweed Bolsillos MujerPor Falabella$  89.990Llega mañana(3)Agregar al Car",
+      "current_price": "$89.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.313245"
+    },
+    {
+      "name": "EnvíogratisappMARINA MIASweater Alpaca MujerPor Falabella$  89.990Llega mañanaMarket.FAgregar al Car",
+      "current_price": "$89.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.321403"
+    },
+    {
+      "name": "EnvíogratisappMARINA MIASweater Alpaca MujerPor Falabella$  98.990Llega mañanaMarket.FAgregar al Car",
+      "current_price": "$98.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.326082"
+    },
+    {
+      "name": "BASEMENTCardigan Algodón MujerPor Falabella$  19.990Llega mañanaRetira mañanaAgregar al Carro",
+      "current_price": "$19.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.333798"
+    },
+    {
+      "name": "BASEMENTBlusa Manga Larga MujerPor Falabella$  24.990Retira mañanaAgregar al Carro",
+      "current_price": "$24.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.340462"
+    },
+    {
+      "name": "UNIVERSITY CLUBChaqueta MujerPor Falabella$  21.990-51%$  44.990Llega mañanaRetira mañana(24)Agregar",
+      "current_price": "$21.990",
+      "original_price": "$44.990",
+      "discount": "-51%",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.344601"
+    },
+    {
+      "name": "SYBILLAPeto MicrofibraPor Falabella$  16.990Llega mañanaAgregar al Carro",
+      "current_price": "$16.990",
+      "original_price": "",
+      "discount": "",
+      "product_link": "",
+      "product_image": "",
+      "store": "falabella",
+      "scraped_at": "2025-07-29T20:01:25.352256"
+    }
+  ]
+}

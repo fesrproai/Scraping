@@ -1,0 +1,40 @@
+{
+  "demo": true,
+  "timestamp": "2025-07-29T19:26:05.731386",
+  "system_info": {
+    "name": "Sistema de Scraping de Descuentos",
+    "version": "1.0",
+    "platform": "PowerShell",
+    "storage": "Local (JSON)",
+    "firebase": false
+  },
+  "stores_configured": [
+    "Paris",
+    "Falabella"
+  ],
+  "features": [
+    "Scraping automático de tiendas",
+    "Filtrado por descuento mínimo",
+    "Guardado local en JSON",
+    "Sin dependencias de Firebase",
+    "Compatible con PowerShell"
+  ],
+  "sample_products": [
+    {
+      "name": "Producto de ejemplo 1",
+      "current_price": "$29.990",
+      "original_price": "$59.990",
+      "discount": "50%",
+      "store": "Paris",
+      "category": "Tecnología"
+    },
+    {
+      "name": "Producto de ejemplo 2",
+      "current_price": "$19.990",
+      "original_price": "$39.990",
+      "discount": "50%",
+      "store": "Falabella",
+      "category": "Hogar"
+    }
+  ]
+}

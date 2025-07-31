@@ -1,0 +1,15 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting nltk
+  Downloading nltk-3.9.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting click (from nltk)
+  Downloading click-8.2.1-py3-none-any.whl.metadata (2.5 kB)
+Requirement already satisfied: joblib in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk) (1.5.1)
+Requirement already satisfied: regex>=2021.8.3 in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk) (2025.7.33)
+Requirement already satisfied: tqdm in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from nltk) (4.67.1)
+Requirement already satisfied: colorama in c:\users\fesr_\appdata\roaming\python\python313\site-packages (from click->nltk) (0.4.6)
+Downloading nltk-3.9.1-py3-none-any.whl (1.5 MB)
+   ---------------------------------------- 1.5/1.5 MB 22.1 MB/s  0:00:00
+Downloading click-8.2.1-py3-none-any.whl (102 kB)
+Installing collected packages: click, nltk
+
+Successfully installed click-8.2.1 nltk-3.9.1
